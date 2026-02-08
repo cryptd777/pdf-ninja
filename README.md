@@ -1,1 +1,2 @@
 # pdf-ninja
+closed 😊 
